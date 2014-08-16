@@ -84,6 +84,10 @@ abrámonos
 ábreme
 ábrenos
 ábrete
+absuelta
+absueltas
+absuelto
+absueltos
 acaece
 acaecen
 acaecer
@@ -236,6 +240,10 @@ anduvimos
 anduviste
 anduvo
 antepón
+antepuesta
+antepuestas
+antepuesto
+antepuestos
 antevé
 antoja
 antojaba

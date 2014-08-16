@@ -99,6 +99,7 @@ acidosis
 ácigos
 aclamación/S
 aclaración/S
+aclimatación/S
 aclorhidria/S
 acometida/S
 acometividad/S
@@ -209,6 +210,7 @@ afectividad/S
 afectuosidad/S
 afeitadora/S
 afeminación/S
+aféresis
 afición/S
 afiladera/S
 afiladura/S
@@ -221,6 +223,7 @@ aflicción/S
 afloración/S
 afonía/S
 aforisma/S
+aforística/S
 afrenta/S
 afta/S
 afuera/S
@@ -448,8 +451,10 @@ alimentación/S
 alineación/S
 aliseda/S
 alisma/S
+aliteración/S
 aljaba/S
 aljama/S
+aljamía/S
 aljofaina/S
 aljuba/S
 almáciga/S
@@ -589,10 +594,15 @@ anacardiácea/S
 anacardina/S
 anaconda/S
 anacora/S
+anacreóntica/S
+anacronía/S
 anadina/S
+anadiplosis
 anafalla/S
 anafilaxia/S
 anafilaxis
+anáfora/S
+anagnórisis
 analectas
 analgesia/S
 analítica/S
@@ -673,6 +683,7 @@ animación/pS
 animadversión/S
 animalada/S
 animalidad/S
+animalización/S
 ánima/S
 animosidad/S
 aniquilación/S
@@ -701,8 +712,10 @@ antífona/S
 antífrasis
 antigualla/S
 antigüedad/S
+antilogía/S
 antimonita/S
 antinomia/S
+antinovela/S
 antipara/S
 antipatía/S
 antipirina/S
@@ -2389,6 +2402,7 @@ clerofobia/S
 clienta/S
 clientela/S
 climatología/S
+clímax
 clínica/S
 cloaca/S
 clorita/S
@@ -4941,6 +4955,7 @@ gráfica/S
 gragea/S
 graja/S
 grama/NS
+gramaticalidad/aS
 gramática/S
 gramínea/S
 gramola/S

@@ -24,6 +24,7 @@ abrumadoramente		# Contribuida por Ricardo Goldberger
 abruptamente
 abultadamente
 abundosamente
+abusivamente		# Contribuida por 'aperalesf'
 acarameladamente
 acartonadamente
 acerosamente

@@ -161,6 +161,7 @@ acerolo/S
 acertamiento/S
 acertijo/S
 aceruelo/S
+acervo/S
 acetato/sS
 acetileno/S
 acetilo/S
@@ -228,6 +229,7 @@ acrobatismo/S
 acromion
 acrómiones
 acrónimo/S
+acróstico/S
 actinio/OS
 actinismo/S
 actinomices
@@ -291,6 +293,7 @@ adornamiento/S
 adorno/S
 adral/S
 adrizamiento/S
+adstrato/S
 aduar/S
 adulterio/S
 advenimiento/S
@@ -333,6 +336,7 @@ aforismo/S
 aforo/O
 afrailamiento/S
 afrancesamiento/S
+africanismo/S
 áfrico/S
 afrikáans
 afronitro/S
@@ -421,6 +425,7 @@ ahuecado/S
 ahuecamiento/S
 ahuehuete/S
 ailanto/S
+aimara
 aire/hS
 airón/S
 aislacionismo/S
@@ -742,6 +747,8 @@ alodio/S
 áloe/S
 alojado/S
 alojamiento/hS
+alófono/S
+alomorfo/S
 alón/S
 alopecuro/S
 alpamato/S
@@ -834,6 +841,7 @@ amelo/S
 amén/S
 amento/S
 ameos
+americanismo/S
 amerizaje/S
 ametrallamiento/S
 ami
@@ -1016,6 +1024,7 @@ antozoo/S
 antropocentrismo/S
 antropomorfismo/S
 antropomorfo/S
+antropónimo/S
 antro/S
 antruejo/S
 antuzano/S
@@ -1075,6 +1084,7 @@ aperador/S
 apercibimiento/hS
 aperitivo/S
 apersonamiento/S
+aperturismo/S
 apetito/S
 apiaradero/S
 ápice/S
@@ -3305,6 +3315,7 @@ cliché/S
 clic/S
 clima/S
 climaterio/S
+clímax/c
 clinopodio/S
 clip/S
 clisé/S
@@ -6553,7 +6564,7 @@ herma/S
 hermetismo/S
 hermoseamiento/S
 herodes
-héroe/S
+héroe/cS
 heroísmo/S
 herpetismo/S
 herpil/S
