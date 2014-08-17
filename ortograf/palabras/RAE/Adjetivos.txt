@@ -89,6 +89,7 @@ abstruso/GS
 absurdo/GS
 abuhado/GS
 abulense/S
+abúlico/GS
 abultado/GS
 abundante/tS
 abundoso/GS
@@ -152,6 +153,7 @@ acepto/GS
 acerado/GS
 acerbo/GS
 acerino/GS
+acérrimo/GS
 acertada/h
 acertado/hGS
 acertador/SG
@@ -213,6 +215,7 @@ acrílico/SG
 acrisolador/GS
 acristalado/GS
 acrobático/GS
+acróstico/GS
 actinomorfo/GS
 activa/flkp
 activo/pGSflk
@@ -294,6 +297,7 @@ adquisidor/GS
 adquisitivo/GS
 adrenal/S
 adriático/SG
+adscribible/S
 aduanero/GS
 aductor/GS
 adulador/GS
@@ -358,6 +362,7 @@ afín/S
 afirmador/SG
 afirmativo/SG
 aflictivo/SG
+aforístico/GS
 afortunada/h
 afortunado/hSG
 afrentador/GS
@@ -383,6 +388,7 @@ agente/S
 agitado/GS
 agitador/GS
 aglomerante/S
+aglutinador/GS
 aglutinante/S
 agobiante/S
 agónico/SG
@@ -454,6 +460,7 @@ ahuesado/GS
 ahumado/GS
 ahusado/GS
 ahuyentador/GS
+aimara/S
 airoso/GS
 aislacionista/S
 aislado/GS
@@ -549,6 +556,7 @@ alfabético/GS
 alfanumérico/GS
 alfar/S
 alfonsino/SG
+alfonsí/S
 alforjero/GS
 algarero/GS
 algebraico/GS
@@ -573,6 +581,7 @@ alicantino/GS
 alícuota/S
 alienable/kS
 alienante/S
+alienígeno/GS
 alienista/S
 alifático/GS
 alijador/GS
@@ -587,6 +596,7 @@ alirrojo/GS
 alisado/GS
 alisador/GS
 aliviador/GS
+aljamiado/GS
 allanador/GS
 allegadizo/GS
 allegador/GS
@@ -606,6 +616,7 @@ almohade/GS
 almohadillado/SG
 almorávide/S
 alocado/GS
+alófono/GS
 alópata/S
 alopático/GS
 alotrópico/GS
@@ -755,6 +766,7 @@ anabaptista/S
 anacanto/S
 anacardiáceo/GS
 anacardino/GS
+anacreóntico/GS
 anacrónico/GS
 anafórico/SG
 anagramático/GS
@@ -766,6 +778,7 @@ analizador/GS
 analógico/SG
 análogo/SG
 anal/S
+anárquico/GS
 anarquista/S
 anarquizante/S
 anatematizador/GS
@@ -783,6 +796,7 @@ andadero/GS
 andado/GS
 andador/SG
 andalucista/S
+andalusí/S
 andaluz/GS
 andante/S
 andantesco/GS
@@ -793,6 +807,7 @@ andorrano/GS
 andosco/GS
 andrajoso/SG
 andujareño/GS
+anecdótico/GS
 anegadizo/SG
 anejo/GS
 anélido/SG
@@ -909,6 +924,7 @@ antónimo/SG
 antoniniano/GS
 antonino/GS
 antozoo/S
+antropocéntrico/GS
 antropófago/GS
 antropoideo/SG
 antropoide/S
@@ -1860,7 +1876,7 @@ buñueliano/GS
 burdeos
 burdo/GS
 burgalés/SG
-burgués/SG
+burgués/cGS
 buriel/S
 burlador/GS
 burlesco/GS
@@ -2232,7 +2248,7 @@ categórico/GS
 catenario/GS
 catenular/S
 catilinaria/S
-católico/SG
+católico/cGS
 catoniano/GS
 catorceavo/GS
 catorceno/GS
@@ -5475,6 +5491,7 @@ francisco/GS
 franco/GS
 francote/SG
 franqueable/kS
+franquista/S
 fraternal/S
 fraterno/GS
 fratricida/S
@@ -6069,7 +6086,7 @@ herniado/GS
 herniario/GS
 hernioso/GS
 herodiano/GS
-heroico/GS
+heroico/cGS
 herramental/S
 herrial/S
 herrumbroso/SG
@@ -7195,7 +7212,7 @@ léxico/SG
 leyendario/SG
 lezne/GS
 liberador/GS
-liberal/kS
+liberal/ckS
 liberatorio/GS
 libertador/GS
 libertario/SG

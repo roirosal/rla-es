@@ -1,153 +1,153 @@
-abceso
-abreviatio
-absuelto
-abúlicos
-abusivamente
+abceso			-> No existe según RAE, ¿error ortográfico en 'absceso'?
+abreviatio		-> No existe según RAE, para mí parece Latín.
+absuelto		-> Participio irregular de absolver, añadidos en ConjugacionesIrregulares.txt
+abúlicos		-> Añado 'abúlico/GS' en Adjetivos.txt
+abusivamente		-> No existe según RAE. Añado 'abusivamente' en noRAE/Adverbios.txt (más de 1 millón de ocurrencias en Google)
 académicamente          -> Añado 'académicamente' en Adverbios.txt
-acérrima
+acérrima		-> Añado 'acérrimo/GS' en Adjetivos.txt
 acérrimas
 acérrimo
 acérrimos
-acervo
-aclimatación
-acotarles
-acrolecto
+acervo			-> Añado 'acervo/S' en NombresMasculinos.txt
+aclimatación		-> Añado 'aclimatación/S' en NombresFemeninos.txt
+acotarles		-> Añado la bandera 'Â' en el lema 'acotar' en VerbosTransitivosPronominales.txt
+acrolecto		-> No reconocido por RAE. Demasiado específico para añadirlo, pocas ocurrencias. Quizás en un diccionario de términos para Lingüística.
 acrolectos
-acronimia
-acrósticas
+acronimia		-> Ocurre lo mismo que con 'acrolecto'.
+acrósticas		-> Añado 'acróstico/S' en NombresMasculinos.txt y 'acróstico/GS' en Adjetivos.txt
 acrósticos
-actancial
+actancial		-> Ocurre lo mismo que con 'acrolecto'
 actanciales
-actante
+actante			-> Ocurre lo mismo que con 'acrolecto'
 actantes
-actio
-acusadamente
-adagia
-Adam
-adlatio
-adlativo
-adscribible
-adstrato
-aféresis
-aforístico
-africanismos
-Agamenón
-agentivo
-aglutinador
-agón
-agramaticalidad
-agrietándola
+actio			-> ¿Latín?
+acusadamente		-> Pocas ocurrencias
+adagia			-> ¿Latín?
+Adam			-> Nombre propio, pero me parece que con origen anglosajón.
+adlatio			-> ¿Latín?
+adlativo		-> Ocurre lo mismo que con 'acrolecto'
+adscribible		-> Añado 'adscribible/S' en Adjetivos.txt
+adstrato		-> Añado 'adstrato/S' en NombresMasculinos.txt
+aféresis		-> Añado 'aféresis' en NombresFemeninos.txt
+aforístico		-> Añado 'aforístico/GS' en Adjetivos.txt y 'aforística/S' en NombresFemeninos.txt
+africanismos		-> Añado 'africanismo/S' en NombresMasculinos.txt
+Agamenón		-> Añado 'Agamenón' en noRAE/NombresPropiosSiglas.txt
+agentivo		-> Lingüística
+aglutinador		-> Añado 'aglutinador/GS' en Adjetivos.txt
+agón			-> Pocas ocurrencias
+agramaticalidad		-> Añado 'gramaticalidad/aS' en NombresFemeninos.txt
+agrietándola		-> Añado la bandera 'Ä' en el lema 'agrietar' en VerbosTransitivosPronominales.txt
 agrietándolas
 agrietándolo
 agrietándolos
-aimara
-Al-Andalus
-Alarcón
-Alarcos
-Albacete
-Alfarache
-alfonsí
+aimara			-> Añado 'aimara/S' en Adjetivos.txt y 'aimara' en NombresMasculinos.txt
+Al-Andalus		-> Contiene un guión. La grafía correcta del topónimo es 'al-Ándalus', pero no se pueden agregar topónimos que contienen guiones.
+Alarcón			-> Añado 'Alarcón' en noRAE/NombresPropiosSiglas.txt
+Alarcos			-> Añado 'Alarcos' en noRAE/NombresPropiosSiglas.txt
+Albacete		-> Añado 'Albacete' en noRAE/NombresPropiosSiglas.txt
+Alfarache		-> Añado 'Alfarache' en noRAE/NombresPropiosSiglas.txt
+alfonsí			-> Añado 'alfonsí/S' en Adjetivos.txt
 alfonsíes
-alienígena
+alienígena		-> Añado 'alienígeno/GS' en Adjetivos.txt y 'alienígena/S' en NombresMasculinosFemeninos.txt
 alienígenas
-Alighieri
-aliteración
+Alighieri		-> Añado 'Alighieri' en noRAE/NombresPropiosSiglas.txt
+aliteración		-> Añado 'aliteración/S' en RAE/NombresFemeninos.txt
 aliteraciones
-aljamía
-aljamianas
-Allan
-almacenadores
-Almería
-alófono
+aljamía			-> Añado 'aljamía/S' en NombresFemeninos.txt
+aljamianas		-> No registrado en RAE, ¿error ortográfico por 'aljamiadas'? Añado 'aljamiado/GS' en Adjetivos.txt
+Allan			-> Nombre propio, pero de origen anglosajón.
+almacenadores		-> No registrado en RAE, hay suficientes ocurrencias como para añadirlo en noRAE pero me parece un uso incorrecto por 'almacén'.
+Almería			-> Añado 'Almería' en noRAE/NombresPropiosSiglas.txt
+alófono			-> Añado 'alófono/GS' en Adjetivos.txt y 'alófono/S' en NombresMasculinos.txt
 alófonos
-alomorfo
+alomorfo		-> Añado 'alomorfo/S' en NombresMasculinos.txt
 alomorfos
-alter
-Alvar
-Amadís
-Amanda
-Amberes
-americanismo
+alter			-> ¿Latín?
+Alvar			-> No registrado en RAE, no sé a qué hace referencia. ¿Es un topónimo español?
+Amadís			-> Añado 'Amadís' en noRAE/NombresPropiosSiglas.txt
+Amanda			-> Añado 'Amanda' en noRAE/NombresPropiosSiglas.txt
+Amberes			-> Añado 'Amberes' en noRAE/NombresPropiosSiglas.txt
+americanismo		-> Añado 'americanismo/S' en RAE/NombresMasculinos.txt
 americanismos
-Américas
-Américo
-amoenus
-amplificatio
-amplísima
-Anabel
-anacreóntica
-anacronía
+Américas		-> Añado 'Américas' en noRAE/NombresPropiosSiglas.txt
+Américo			-> Añado 'Américo' en noRAE/NombresPropiosSiglas.txt
+amoenus			-> No registrado en RAE. ¿Latín?
+amplificatio		-> No registrado en RAE. ¿Latín?
+amplísima		-> No registrado en RAE. Superlativo de 'amplio', añado 'amplísimo/GS' en noRAE/Adjetivos.txt
+Anabel			-> Añado 'Anabel' en noRAE/NombresPropiosSiglas.txt
+anacreóntica		-> Añado 'anacreóntico/GS' en Adjetivos.txt y 'anacreóntica/S' en NombresFemeninos.txt
+anacronía		-> Añado 'anacronía/S' en NombresFemeninos.txt
 anacronías
-anáfora
+anáfora                 -> Añado 'anáfora/S' en NombresFemeninos.txt
 anáforas
-anagnórisis
-analepsis
-analizante
-anárquica
+anagnórisis             -> Añado 'anagnórisis' en NombresFemeninos.txt
+analepsis               -> Añado 'analepsis' en NombresFemeninos.txt
+analizante              -> No registrado en RAE, pocas ocurrencias.
+anárquica               -> Añado 'anárquico/GS' en Adjetivos.txt y 'anárquico/GS' en NombresMasculinosFemeninos.txt
 anárquicas
-Andalucías
-andalusí
-Anderson
-andiplosis
-André
-Andrómaca
-anecdótica
+Andalucías              -> Añado 'Andalucía/S' en noRAE/NombresPropiosSiglas.txt
+andalusí                -> Añado 'andalusí/S' en Adjetivos.txt y NombresComunes.txt
+Anderson                -> Nombre propio de origen anglosajón
+andiplosis              -> ¿Error ortográfico por 'anadiplosis'? Añado 'anadiplosis' en NombresFemeninos.txt
+André                   -> Nombre propio, pero parece de origen francés
+Andrómaca               -> Nombre propio, poco usado.
+anecdótica              -> Añado 'anecdótico/GS' en Adjetivos.txt
 anecdóticas
 anecdótico
 anecdóticos
-angelicata
-animalización
+angelicata              -> ¿Latín?
+animalización           -> Añado 'animalización/S' en NombresFemeninos.txt
 anisocronías
 anisosilábico
 anisosilábicos
 anisosilabismo
-antepuesta
+antepuesta              -> Participio irregular de anteponer. Añadidas todas las formas en ConjugacionesIrregulares.txt
 antepuestas
 antepuesto
 antepuestos
 antiateo
-antiburgués
+antiburgués             -> Añado la bandera 'c' (prefijo anti-) para el lema 'burgués' en Adjetivos.txt
 antiburguesa
 antiburguesas
 antiburgueses
-anticatólica
+anticatólica            -> Añado la bandera 'c' (prefijo anti-) para el lema 'católico' en Adjetivos.txt
 anticatólicas
 anticatólico
 anticatólicos
-anticlímax
+anticlímax              -> Añado 'clímax/c' en NombresMasculinos.txt y 'clímax' en NombresFemeninos.txt
 anticopia
 antidogmatismo
-antifranquista
+antifranquista          -> Añado 'franquista/S' en Adjetivos.txt y NombresComunes.txt y 'antifranquista/S' en noRAE.
 antifranquistas
-Antígona
-antihéroe
-antiheroico
-antihonor
-antiliberal
+Antígona                -> Añado 'Antígona' en noRAE/NombresPropiosSiglas.txt
+antihéroe               -> Añado la bandera 'c' (prefijo anti-) para el lema 'héroe' en NombresMasculinos.txt
+antiheroico             -> Añado la bandera 'c' (prefijo anti-) para el lema 'heroico' en Adjetivos.txt
+antihonor               -> Pocas ocurrencias
+antiliberal             -> Añado la bandera 'c' (prefijo anti-) para el lema 'liberal' en Adjetivos.txt y en NombresComunes.txt
 antiliberales
-antilogía
-antimarxista
+antilogía               -> Añado 'antilogía/S' en NombresFemeninos.txt
+antimarxista            -> Pocas ocurrencias
 antimarxistas
-antimasónico
+antimasónico            -> Pocas ocurrencias
 antimasónicos
-antimentalismo
-antinovela
-antiorientado
+antimentalismo          -> Pocas ocurrencias
+antinovela              -> Añado 'antinovela/S' en NombresFemeninos.txt
+antiorientado           -> Pocas ocurrencias
 antiorientados
-antirrealista
+antirrealista           -> Pocas ocurrencias
 antirrealistas
-antirreformista
+antirreformista         -> Pocas ocurrencias
 antirreformistas
-antirretoricismo
-antitradicionales
-antiyanqui
-antropocéntrica
-antropólogo
+antirretoricismo        -> Pocas ocurrencias
+antitradicionales       -> Pocas ocurrencias
+antiyanqui              -> Pocas ocurrencias
+antropocéntrica         -> Añado 'antropocéntrico/GS' en Adjetivos.txt
+antropólogo             -> Añado 'antropólogo/GS' en NombresMasculinosFemeninos.txt
 antropólogos
-antropónimos
-aperturismo
+antropónimos            -> Añado 'antropónimo/S' en NombresMasculinos.txt
+aperturismo             -> Añado 'aperturismo/S' en NombresMasculinos.txt
 aperturismos
-apicoalveolar
+apicoalveolar           -> Pocas ocurrencias
 apocalipsis
 Apocalipsis
 apofántico

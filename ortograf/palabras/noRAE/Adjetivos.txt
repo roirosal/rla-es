@@ -16,10 +16,12 @@
 
 actitudinal/S
 acultural/S
+amplísimo/GS
 anatomoclínico/GS
 anatomopatológico/GS
 antiautoritario/GS
 anticomercial/S
+antifranquista/S
 antihorario/GS
 antimonopólico/GS
 autocorrectivo/GS

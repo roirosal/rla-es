@@ -91,7 +91,7 @@ acoquinar/RED
 acorazar/RED
 acordar/IRDÀÁÂÅÆñòõù
 acorralar/REDÀÁÂÄÅÆñò
-acotar/REDÀ
+acotar/REDÀÂ
 acrecentar/IRDÀ
 acreditar/REDÀÂÆ
 acribar/RED
@@ -169,7 +169,7 @@ agraviar/REDÀ
 agregar/REDÀÁÂÄÆÌÎÏÙÛñø
 agremiar/RED
 agriar/IRDÂ
-agrietar/RED
+agrietar/REDÄ
 agrisar/RED
 agrumar/RED
 agrupar/REDÀÁÄñT

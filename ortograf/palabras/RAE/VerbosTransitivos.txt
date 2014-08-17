@@ -128,7 +128,6 @@ acorrer/RED
 acorullar/RED
 acorvar/RED
 acosar/REDÀÁÂÄÅÆ
-acotar/REDÀ
 acoyundar/RED
 acoyuntar/RED
 acrianzar/RED
