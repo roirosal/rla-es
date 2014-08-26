@@ -15,3 +15,5 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 autoconvencer/REDñ		# Contribuida por Gonzalo Higuera Díaz
+autodirigir/REDñ
+autoinfligir/REDñ

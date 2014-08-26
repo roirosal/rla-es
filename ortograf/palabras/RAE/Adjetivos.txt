@@ -1016,6 +1016,7 @@ apodíctico/GS
 apolinar/S
 apolíneo/SG
 apologético/GS
+apólogo/GS
 aporcador/SG
 aporreador/SG
 aposentador/GS
@@ -1132,6 +1133,7 @@ armoricano/GS
 aromático/GS
 arpado/GS
 arqueológico/SG
+arquetípico/GS
 arquiepiscopal/S
 arquitectónico/GS
 arquitectural/S
@@ -1189,6 +1191,7 @@ articular/lS
 articulatorio/SG
 artificial/S
 artificiosa/k
+artificiosidad/S
 artificioso/kSG
 artillero/SG
 artiodáctilo/S
@@ -1202,6 +1205,7 @@ asadero/SG
 asado/SG
 asalariado/GS
 asaltante/S
+asambleario/GS
 asardinado/GS
 asativo/SG
 asaz/S
@@ -1263,6 +1267,7 @@ astorgano/GS
 astral/S
 astrictivo/GS
 astringente/S
+astrológico/GS
 astrólogo/GS
 astronómico/GS
 astrosa/h
@@ -1270,6 +1275,7 @@ astroso/GhS
 asturiano/GS
 asturicense/S
 astur/S
+asturleonés/GS
 astuto/GS
 asumible/S
 asuncionista/S
@@ -1283,6 +1289,7 @@ atador/hGS
 atajador/GS
 atalayador/GS
 atávico/SG
+atemporal/S
 atendible/hS
 ateneo/GS
 ateniense/S
@@ -10306,7 +10313,7 @@ regoldano/SG
 regordete/SG
 regresivo/GS
 regulado/GS
-regulador/SG
+regulador/dGS
 regularizador/SG
 regular/kS
 regulativo/GS

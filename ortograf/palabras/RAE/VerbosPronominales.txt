@@ -143,6 +143,7 @@ atener/XDñóöú
 atipar/RED
 atorozonar/RED
 atrever/REDñòôø
+autodefinir/REDñ
 autolesionar/REDñ
 automedicar/REDñ
 autorregular/RED

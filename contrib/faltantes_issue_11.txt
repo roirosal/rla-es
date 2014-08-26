@@ -1,82 +1,82 @@
-abceso			-> No existe según RAE, ¿error ortográfico en 'absceso'?
-abreviatio		-> No existe según RAE, para mí parece Latín.
-absuelto		-> Participio irregular de absolver, añadidos en ConjugacionesIrregulares.txt
-abúlicos		-> Añado 'abúlico/GS' en Adjetivos.txt
-abusivamente		-> No existe según RAE. Añado 'abusivamente' en noRAE/Adverbios.txt (más de 1 millón de ocurrencias en Google)
+abceso                  -> No existe según RAE, ¿error ortográfico en 'absceso'?
+abreviatio              -> No existe según RAE, para mí parece Latín.
+absuelto                -> Participio irregular de absolver, añadidos en ConjugacionesIrregulares.txt
+abúlicos                -> Añado 'abúlico/GS' en Adjetivos.txt
+abusivamente            -> No existe según RAE. Añado 'abusivamente' en noRAE/Adverbios.txt (más de 1 millón de ocurrencias en Google)
 académicamente          -> Añado 'académicamente' en Adverbios.txt
-acérrima		-> Añado 'acérrimo/GS' en Adjetivos.txt
+acérrima                -> Añado 'acérrimo/GS' en Adjetivos.txt
 acérrimas
 acérrimo
 acérrimos
-acervo			-> Añado 'acervo/S' en NombresMasculinos.txt
-aclimatación		-> Añado 'aclimatación/S' en NombresFemeninos.txt
-acotarles		-> Añado la bandera 'Â' en el lema 'acotar' en VerbosTransitivosPronominales.txt
-acrolecto		-> No reconocido por RAE. Demasiado específico para añadirlo, pocas ocurrencias. Quizás en un diccionario de términos para Lingüística.
+acervo                  -> Añado 'acervo/S' en NombresMasculinos.txt
+aclimatación            -> Añado 'aclimatación/S' en NombresFemeninos.txt
+acotarles               -> Añado la bandera 'Â' en el lema 'acotar' en VerbosTransitivosPronominales.txt
+acrolecto               -> No reconocido por RAE. Demasiado específico para añadirlo, pocas ocurrencias. Quizás en un diccionario de términos para Lingüística.
 acrolectos
-acronimia		-> Ocurre lo mismo que con 'acrolecto'.
-acrósticas		-> Añado 'acróstico/S' en NombresMasculinos.txt y 'acróstico/GS' en Adjetivos.txt
+acronimia               -> Ocurre lo mismo que con 'acrolecto'.
+acrósticas              -> Añado 'acróstico/S' en NombresMasculinos.txt y 'acróstico/GS' en Adjetivos.txt
 acrósticos
-actancial		-> Ocurre lo mismo que con 'acrolecto'
+actancial               -> Ocurre lo mismo que con 'acrolecto'
 actanciales
-actante			-> Ocurre lo mismo que con 'acrolecto'
+actante                 -> Ocurre lo mismo que con 'acrolecto'
 actantes
-actio			-> ¿Latín?
-acusadamente		-> Pocas ocurrencias
-adagia			-> ¿Latín?
-Adam			-> Nombre propio, pero me parece que con origen anglosajón.
-adlatio			-> ¿Latín?
-adlativo		-> Ocurre lo mismo que con 'acrolecto'
-adscribible		-> Añado 'adscribible/S' en Adjetivos.txt
-adstrato		-> Añado 'adstrato/S' en NombresMasculinos.txt
-aféresis		-> Añado 'aféresis' en NombresFemeninos.txt
-aforístico		-> Añado 'aforístico/GS' en Adjetivos.txt y 'aforística/S' en NombresFemeninos.txt
-africanismos		-> Añado 'africanismo/S' en NombresMasculinos.txt
-Agamenón		-> Añado 'Agamenón' en noRAE/NombresPropiosSiglas.txt
-agentivo		-> Lingüística
-aglutinador		-> Añado 'aglutinador/GS' en Adjetivos.txt
-agón			-> Pocas ocurrencias
-agramaticalidad		-> Añado 'gramaticalidad/aS' en NombresFemeninos.txt
-agrietándola		-> Añado la bandera 'Ä' en el lema 'agrietar' en VerbosTransitivosPronominales.txt
+actio                   -> ¿Latín?
+acusadamente            -> Pocas ocurrencias
+adagia                  -> ¿Latín?
+Adam                    -> Nombre propio, pero me parece que con origen anglosajón.
+adlatio                 -> ¿Latín?
+adlativo                -> Ocurre lo mismo que con 'acrolecto'
+adscribible             -> Añado 'adscribible/S' en Adjetivos.txt
+adstrato                -> Añado 'adstrato/S' en NombresMasculinos.txt
+aféresis                -> Añado 'aféresis' en NombresFemeninos.txt
+aforístico              -> Añado 'aforístico/GS' en Adjetivos.txt y 'aforística/S' en NombresFemeninos.txt
+africanismos            -> Añado 'africanismo/S' en NombresMasculinos.txt
+Agamenón                -> Añado 'Agamenón' en noRAE/NombresPropiosSiglas.txt
+agentivo                -> Lingüística
+aglutinador             -> Añado 'aglutinador/GS' en Adjetivos.txt
+agón                    -> Pocas ocurrencias
+agramaticalidad         -> Añado 'gramaticalidad/aS' en NombresFemeninos.txt
+agrietándola            -> Añado la bandera 'Ä' en el lema 'agrietar' en VerbosTransitivosPronominales.txt
 agrietándolas
 agrietándolo
 agrietándolos
-aimara			-> Añado 'aimara/S' en Adjetivos.txt y 'aimara' en NombresMasculinos.txt
-Al-Andalus		-> Contiene un guión. La grafía correcta del topónimo es 'al-Ándalus', pero no se pueden agregar topónimos que contienen guiones.
-Alarcón			-> Añado 'Alarcón' en noRAE/NombresPropiosSiglas.txt
-Alarcos			-> Añado 'Alarcos' en noRAE/NombresPropiosSiglas.txt
-Albacete		-> Añado 'Albacete' en noRAE/NombresPropiosSiglas.txt
-Alfarache		-> Añado 'Alfarache' en noRAE/NombresPropiosSiglas.txt
-alfonsí			-> Añado 'alfonsí/S' en Adjetivos.txt
+aimara                  -> Añado 'aimara/S' en Adjetivos.txt y 'aimara' en NombresMasculinos.txt
+Al-Andalus              -> Contiene un guión. La grafía correcta del topónimo es 'al-Ándalus', pero no se pueden agregar topónimos que contienen guiones.
+Alarcón                 -> Añado 'Alarcón' en noRAE/NombresPropiosSiglas.txt
+Alarcos                 -> Añado 'Alarcos' en noRAE/NombresPropiosSiglas.txt
+Albacete                -> Añado 'Albacete' en noRAE/NombresPropiosSiglas.txt
+Alfarache               -> Añado 'Alfarache' en noRAE/NombresPropiosSiglas.txt
+alfonsí                 -> Añado 'alfonsí/S' en Adjetivos.txt
 alfonsíes
-alienígena		-> Añado 'alienígeno/GS' en Adjetivos.txt y 'alienígena/S' en NombresMasculinosFemeninos.txt
+alienígena              -> Añado 'alienígeno/GS' en Adjetivos.txt y 'alienígena/S' en NombresMasculinosFemeninos.txt
 alienígenas
-Alighieri		-> Añado 'Alighieri' en noRAE/NombresPropiosSiglas.txt
-aliteración		-> Añado 'aliteración/S' en RAE/NombresFemeninos.txt
+Alighieri               -> Añado 'Alighieri' en noRAE/NombresPropiosSiglas.txt
+aliteración             -> Añado 'aliteración/S' en RAE/NombresFemeninos.txt
 aliteraciones
-aljamía			-> Añado 'aljamía/S' en NombresFemeninos.txt
-aljamianas		-> No registrado en RAE, ¿error ortográfico por 'aljamiadas'? Añado 'aljamiado/GS' en Adjetivos.txt
-Allan			-> Nombre propio, pero de origen anglosajón.
-almacenadores		-> No registrado en RAE, hay suficientes ocurrencias como para añadirlo en noRAE pero me parece un uso incorrecto por 'almacén'.
-Almería			-> Añado 'Almería' en noRAE/NombresPropiosSiglas.txt
-alófono			-> Añado 'alófono/GS' en Adjetivos.txt y 'alófono/S' en NombresMasculinos.txt
+aljamía                 -> Añado 'aljamía/S' en NombresFemeninos.txt
+aljamianas              -> No registrado en RAE, ¿error ortográfico por 'aljamiadas'? Añado 'aljamiado/GS' en Adjetivos.txt
+Allan                   -> Nombre propio, pero de origen anglosajón.
+almacenadores           -> No registrado en RAE, hay suficientes ocurrencias como para añadirlo en noRAE pero me parece un uso incorrecto por 'almacén'.
+Almería                 -> Añado 'Almería' en noRAE/NombresPropiosSiglas.txt
+alófono                 -> Añado 'alófono/GS' en Adjetivos.txt y 'alófono/S' en NombresMasculinos.txt
 alófonos
-alomorfo		-> Añado 'alomorfo/S' en NombresMasculinos.txt
+alomorfo                -> Añado 'alomorfo/S' en NombresMasculinos.txt
 alomorfos
-alter			-> ¿Latín?
-Alvar			-> No registrado en RAE, no sé a qué hace referencia. ¿Es un topónimo español?
-Amadís			-> Añado 'Amadís' en noRAE/NombresPropiosSiglas.txt
-Amanda			-> Añado 'Amanda' en noRAE/NombresPropiosSiglas.txt
-Amberes			-> Añado 'Amberes' en noRAE/NombresPropiosSiglas.txt
-americanismo		-> Añado 'americanismo/S' en RAE/NombresMasculinos.txt
+alter                   -> ¿Latín?
+Alvar                   -> No registrado en RAE, no sé a qué hace referencia. ¿Es un topónimo español?
+Amadís                  -> Añado 'Amadís' en noRAE/NombresPropiosSiglas.txt
+Amanda                  -> Añado 'Amanda' en noRAE/NombresPropiosSiglas.txt
+Amberes                 -> Añado 'Amberes' en noRAE/NombresPropiosSiglas.txt
+americanismo            -> Añado 'americanismo/S' en RAE/NombresMasculinos.txt
 americanismos
-Américas		-> Añado 'Américas' en noRAE/NombresPropiosSiglas.txt
-Américo			-> Añado 'Américo' en noRAE/NombresPropiosSiglas.txt
-amoenus			-> No registrado en RAE. ¿Latín?
-amplificatio		-> No registrado en RAE. ¿Latín?
-amplísima		-> No registrado en RAE. Superlativo de 'amplio', añado 'amplísimo/GS' en noRAE/Adjetivos.txt
-Anabel			-> Añado 'Anabel' en noRAE/NombresPropiosSiglas.txt
-anacreóntica		-> Añado 'anacreóntico/GS' en Adjetivos.txt y 'anacreóntica/S' en NombresFemeninos.txt
-anacronía		-> Añado 'anacronía/S' en NombresFemeninos.txt
+Américas                -> Añado 'Américas' en noRAE/NombresPropiosSiglas.txt
+Américo                 -> Añado 'Américo' en noRAE/NombresPropiosSiglas.txt
+amoenus                 -> No registrado en RAE. ¿Latín?
+amplificatio            -> No registrado en RAE. ¿Latín?
+amplísima               -> No registrado en RAE. Superlativo de 'amplio', añado 'amplísimo/GS' en noRAE/Adjetivos.txt
+Anabel                  -> Añado 'Anabel' en noRAE/NombresPropiosSiglas.txt
+anacreóntica            -> Añado 'anacreóntico/GS' en Adjetivos.txt y 'anacreóntica/S' en NombresFemeninos.txt
+anacronía               -> Añado 'anacronía/S' en NombresFemeninos.txt
 anacronías
 anáfora                 -> Añado 'anáfora/S' en NombresFemeninos.txt
 anáforas
@@ -148,76 +148,76 @@ antropónimos            -> Añado 'antropónimo/S' en NombresMasculinos.txt
 aperturismo             -> Añado 'aperturismo/S' en NombresMasculinos.txt
 aperturismos
 apicoalveolar           -> Pocas ocurrencias
-apocalipsis
-Apocalipsis
-apofántico
-Apollinaire
-apólogo
+apocalipsis             -> Es 'Apocalipsis'
+Apocalipsis             -> Añado 'Apocalipsis' en NombresMasculinos.txt
+apofántico              -> Pocas ocurrencias
+Apollinaire             -> Nombre extranjero
+apólogo                 -> Añado 'apólogo/S' en NombresMasculinos.txt y 'apólogo/GS' en Adjetivos.txt
 apólogos
-Apolonio
-apóstrofe
-apotegmática
-apoyatura
-Apuleyo
-Aquiles
-Aragón
-Aranjuez
-archidiácono
-archilexema
-archisenema
-argótico
-argumentalmente
-argumentatio
-Ariel
-aristocratismo
-Aristófanes
-Aristóteles
-arquetípico
+Apolonio                -> Añado 'Apolonio' en noRAE/NombrePropiosSiglas.txt
+apóstrofe               -> Añado 'apóstrofe/S' en NombresAmbiguos.txt
+apotegmática            -> Pocas ocurrencias
+apoyatura               -> Añado 'apoyatura/S' en NombresFemeninos.txt
+Apuleyo                 -> Añado 'Apuleyo' en noRAE/NombresPropiosSiglas.txt
+Aquiles                 -> Añado 'Aquiles' en noRAE/NombresPropiosSiglas.txt
+Aragón                  -> Añado 'Aragón' en noRAE/NombresPropiosSiglas.txt
+Aranjuez                -> Añado 'Aranjuez' en noRAE/NombresPropiosSiglas.txt
+archidiácono            -> Añado 'archidiácono/S' en NombresMasculinos.txt
+archilexema             -> Pocas ocurrencias
+archisenema             -> Pocas ocurrencias
+argótico                -> Pocas ocurrencias
+argumentalmente         -> Añado 'argumentalmente' en Adverbios.txt
+argumentatio            -> ¿Latín?
+Ariel                   -> Añado 'Ariel' en noRAE/NombresPropiosSiglas.txt
+aristocratismo          -> Añado 'aristocratismo/S' en NombresMasculinos.txt
+Aristófanes             -> Añado 'Aristófanes' en noRAE/NombresPropiosSiglas.txt
+Aristóteles             -> Añado 'Aristóteles' en noRAE/NombresPropiosSiglas.txt
+arquetípico             -> Añado 'arquetípico/GS' en Adjetivos.txt
 arquetípicos
-Artemis
-Ártemis
-artificiosidad
-artúrico
-asambleario
-Asclepio
-aservativos
-asibilación
-asimetría
-asincronías
-asíndeton
-aspectualización
-astrológicos
-Asturias
-asturleonés
+Artemis                 -> Es 'Artemisa' o 'Ártemis'
+Ártemis                 -> Añado 'Artemisa' y 'Ártemis' en noRAE/NombresPropiosSiglas.txt
+artificiosidad          -> Añado 'artificiosidad/S' en NombresFemeninos.txt
+artúrico                -> Añado 'artúrico/GS' en Adjetivos.txt
+asambleario             -> Añado 'asambleario/GS' en Adjetivos.txt
+Asclepio                -> Añado 'Asclepio' en noRAE/NombresPropiosSiglas.txt
+aservativos             -> ¿Error por 'asertivos'?
+asibilación             -> Añado 'asibilación/S' en NombresFemeninos.txt
+asimetría               -> Añado 'asimetría/S' en NombresFemeninos.txt
+asincronías             -> Añado 'asincronía/S' en NombresFemeninos.txt
+asíndeton               -> Añado 'asíndeton/S' en NombresMasculinos.txt
+aspectualización        -> Pocas ocurrencias.
+astrológicos            -> Añado 'astrológico/GS' en Adjetivos.txt
+Asturias                -> Añado 'Asturias' en noRAE/NombresPropiosSiglas.txt
+asturleonés             -> Añado 'asturleonés/GS' en Adjetivos.txt y 'asturleonés' en NombresMasculinos.txt
 asturleonesa
-atelicidad
-atélico
-atemporal
+atelicidad              -> Pocas ocurrencias
+atélico                 -> Pocas ocurrencias
+atemporal               -> Añado 'atemporal/S' en Adjetivos.txt
 atemporales
-Atenas
-atraerles
-Austin
-autarquía
-autentificación
-autobiografismo
-autobiógrafo
-autoconcepto
-autoconocimiento
-autoconsciencia
-Autocontrol
-autocuestionamiento
-autodefinía
-autodiégesis
-autodiegético
-autodirigida
-autoevaluación
-Autoevalucación
-autoexiliarse
-autoinfligido
-autorial
-autorpostulándose
-autorregulación
-autorreguladora
+Atenas                  -> Añado 'Atenas' en noRAE/NombresPropiosSiglas.txt
+atraerles               -> Añado la bandera 'Î' en el lema 'atraer' en VerbosTransitivosPronominales.txt
+Austin                  -> Topónimo/Apellido de origen anglosajón.
+autarquía               -> Añado 'autarquía/S' en NombresFemeninos.txt
+autentificación         -> Añado 'autentificación/S' en NombresFemeninos.txt
+autobiografismo         -> Pocas ocurrencias
+autobiógrafo            -> Añado la bandera 'd' en el lema 'biógrafo' en NombresMasculinosFemeninos.txt
+autoconcepto            -> Añado 'autoconcepto/S' en noRAE/NombreMasculino.txt
+autoconocimiento        -> Añado 'autoconocimiento/S' en noRAE/NombreMasculino.txt
+autoconsciencia         -> Añado la bandera 'd' en el lema 'consciencia' en NombresFemeninos.txt
+Autocontrol             -> Añado la bandera 'd' en el lema 'control' en NombresMasculinos.txt
+autocuestionamiento     -> Pocas ocurrencias
+autodefinía             -> Añado 'autodefinir/REDñ' en VerbosPronominales.txt
+autodiégesis            -> Pocas ocurrencias
+autodiegético           -> Pocas ocurrencias
+autodirigida            -> Añado 'autodirigir/REDñ' en noRAE/VerbosPronominales.txt
+autoevaluación          -> Añado la bandera 'd' en el lema 'evaluación' en NombresFemeninos.txt
+Autoevalucación         -> Error de tipeo
+autoexiliarse           -> Pocas ocurrencias
+autoinfligido           -> Añado 'autoinfligir/REDñ' en noRAE/VerbosPronominales.txt
+autorial                -> Pocas ocurrencias
+autorpostulándose       -> ¿Error de tipeo por 'autopostularse'? Igual no la agrego, véase http://weblogs.clarin.com/revistaenie-elmisteriodelaspalabras/2009/09/04/autopostularse/
+autorregulación         -> Agrego la bandera 'd' en el lema 'regulación' en NombresFemeninos.txt
+autorreguladora         -> Agrego la bandera 'd' en el lema 'regulador' en Adjetivos.txt
 autoselección
 autosolventa
 autosuficiente

@@ -217,7 +217,7 @@ afiladura/S
 afinación/S
 afinadura/S
 afinidad/S
-afirmación/S
+afirmación/dS
 afirmativa/S
 aflicción/S
 afloración/S
@@ -780,6 +780,7 @@ apostasía/S
 apotema/S
 apoteosis
 apoyadura/S
+apoyatura/S
 apreciabilidad/S
 apreciación/S
 aprehensión/S
@@ -917,10 +918,14 @@ asesoría/S
 asestadura/S
 aseveración/S
 asfixia/S
+asibilación/S
 asiduidad/S
 asignación/S
+asimetría/S
 asimétricas
 asimilación/S
+asincronía/S
+asíndeton/S
 asistencia/hkS
 asistenta/S
 asistolia/S
@@ -991,14 +996,13 @@ aurora/S
 auscultación/S
 ausencia/S
 austeridad/S
+autarquía/S
 auténtica/S
 autenticidad/S
-autoafirmación/S
+autentificación/S
 autoclave/S
 autocopista/S
 autocracia/S
-autodefensa/S
-autodefinición/S
 automática/S
 automatización/S
 autonomía/S
@@ -2668,7 +2672,7 @@ connivencia/S
 conquista/pS
 consagración/S
 consanguinidad/S
-consciencia/ksS
+consciencia/dksS
 consecución/S
 consecuencia/kS
 conseja/S
@@ -3142,8 +3146,9 @@ deducción/S
 defecación/S
 defección/S
 defectibilidad/kS
+defensa/dS
 deferencia/S
-definición/S
+definición/dS
 definitiva/S
 deflación/S
 deflagración/S
@@ -4236,7 +4241,7 @@ eupepsia/S
 euritmia/S
 eutanasia/S
 evacuación/S
-evaluación/S
+evaluación/dS
 evangelización/S
 evaporación/S
 evasión/S
@@ -8934,7 +8939,7 @@ regleta/S
 regona/S
 regresión/S
 reguera/S
-regulación/S
+regulación/dS
 regularidad/kS
 regularización/S
 rehala/S

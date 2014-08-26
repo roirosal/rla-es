@@ -247,7 +247,7 @@ benjamín/GS
 bibliotecario/GS
 bigardo/GS
 billetero/GS
-biógrafo/GS
+biógrafo/dGS
 biólogo/GS
 bioquímico/GS
 bisabuelo/GS

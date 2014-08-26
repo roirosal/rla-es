@@ -1099,11 +1099,13 @@ aplazamiento/S
 aplique/S
 aplomo
 apoastro/S
+Apocalipsis
 apocamiento/S
 apoderamiento/hS
 apodo/S
 ápodo/S
 apogeo/S
+apólogo/S
 apoltronamiento/S
 aporisma/S
 aporreamiento/S
@@ -1186,6 +1188,7 @@ arcedo/S
 arcén/S
 arce/S
 archero/S
+archidiácono/S
 archiducado/S
 archiduque/S
 archimandrita/S
@@ -1225,6 +1228,7 @@ ariete/S
 arísaro/S
 aristarco/S
 aristino/S
+aristocratismo/S
 aristotelismo/S
 arlequín/S
 armadijo/S
@@ -1404,6 +1408,7 @@ astrolabio/S
 astrolito/S
 astro/S
 asturianismo/S
+asturleonés
 asueto/S
 asunto/S
 atabalero/S
@@ -3651,7 +3656,7 @@ contravalor/S
 contravapor/S
 contraveneno/S
 contra/S
-control/hS
+control/dhS
 contubernio/S
 convencionalismo/S
 convencional/SO
