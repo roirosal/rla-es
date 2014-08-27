@@ -1421,6 +1421,7 @@ avivador/GS
 avolcanado/GS
 axial/fS
 axilar/S
+axiológico/GS
 axiomático/GS
 ayudador/GS
 ayudado/SG
@@ -11374,7 +11375,7 @@ sueco/GS
 suelta/p
 suelto/pGS
 sueroso/SG
-suficiente/Sk
+suficiente/dkS
 sufijo/SG
 sufí/S
 sufista/S

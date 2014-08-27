@@ -218,46 +218,46 @@ autorial                -> Pocas ocurrencias
 autorpostulándose       -> ¿Error de tipeo por 'autopostularse'? Igual no la agrego, véase http://weblogs.clarin.com/revistaenie-elmisteriodelaspalabras/2009/09/04/autopostularse/
 autorregulación         -> Agrego la bandera 'd' en el lema 'regulación' en NombresFemeninos.txt
 autorreguladora         -> Agrego la bandera 'd' en el lema 'regulador' en Adjetivos.txt
-autoselección
-autosolventa
-autosuficiente
-Avignon
-axiológica
+autoselección           -> Pocas ocurrencias
+autosolventa            -> Pocas ocurrencias
+autosuficiente          -> Agrego la bandera 'd' en el lema 'suficiente' en Adjetivos.txt
+Avignon                 -> Topónimo francés, castellanizado es 'Aviñón', igual no sé si incluirlo
+axiológica              -> Añado 'axiológico/GS' en Adjetivos.txt
 axiológicas
 axiológico
-Ayala
-Áyax
-Aznar
-Azorín
-Baco
-Baena
-Bajtín
-baladísticos
-Baltasar
-Balzac
-Barbadillo
-Barcelona
-Bargas
-Baroja
-barroquización
-Bartolomé
-Baudelaire
-Bazán
-beatería
-Becket
-Bécquer
-behaviorista
-Benavente
-benevolentia
-Berlanga
-Bernárdez
-Berrio
-betacismo
-betacista
-Betis
-bienamado
-Bigotsky
-Bilbao
+Ayala                   -> Apellido, ¿topónimo? No sé si agregarlo
+Áyax                    -> Agrego 'Áyax' en noRAE/NombresPropiosSiglas.txt
+Aznar                   -> Añado 'Aznar' en noRAE/NombresPropiosSiglas.txt
+Azorín                  -> Añado 'Azorín' en noRAE/NombresPropiosSiglas.txt
+Baco                    -> Añado 'Baco' en noRAE/NombresPropiosSiglas.txt
+Baena                   -> Añado 'Baena' (topónimo) en noRAE/NombresPropiosSiglas.txt
+Bajtín                  -> Apellido, pocas ocurrencias
+baladísticos            -> ¿Referido a 'balada'?, no registrado en RAE, lo añado como 'baladístico/GS' en noRAE/Adjetivos.txt
+Baltasar                -> Añado 'Baltasar' en noRAE/NombresPropiosSiglas.txt
+Balzac                  -> Añado 'Balzac' en noRAE/NombresPropiosSiglas.txt
+Barbadillo              -> Añado 'Barbadillo' en noRAE/l10n/es_ES/NombresPropiosSiglas.txt
+Barcelona               -> Añado 'Barcelona' en noRAE/NombresPropiosSiglas.txt
+Bargas                  -> Añado 'Bargas' en noRAE/l10n/es_ES/NombresPropiosSiglas.txt
+Baroja                  -> Añado 'Baroja' en noRAE/NombresPropiosSiglas.txt
+barroquización          -> Añado 'barroquización/S' en NombresFemeninos.txt
+Bartolomé               -> Añado 'Bartolomé' en noRAE/NombresPropiosSiglas.txt
+Baudelaire              -> Añado 'Baudelaire' en noRAE/NombresPropiosSiglas.txt
+Bazán                   -> Añado 'Bazán' en noRAE/NombresPropiosSiglas.txt
+beatería                -> Añado 'beatería/S' en NombresFemeninos.txt
+Becket                  -> Nombre propio de origen anglosajón
+Bécquer                 -> Añado 'Bécquer' en noRAE/NombresPropiosSiglas.txt
+behaviorista            -> Añado 'behaviorista/S' en noRAE/NombresComunes.txt y noRAE/Adjetivos.txt y 'behaviorismo/S' en NombresMasculinos.txt
+Benavente               -> Añado 'Benavente' en noRAE/NombresPropiosSiglas.txt
+benevolentia            -> ¿Error de tipeo por 'benevolencia', o latín?
+Berlanga                -> Añado 'berlanga' en NombresFemeninos.txt (si bien este es nombre propio, falta el término)
+Bernárdez               -> Añado 'Bernárdez' en noRAE/NombresPropiosSiglas.txt
+Berrio                  -> Pocas ocurrencias
+betacismo               -> Pocas ocurrencias
+betacista               -> Pocas ocurrencias
+Betis                   -> ¿Equipo de fútbol español? Añado 'Betis' en noRAE/l10n/es_ES/NombresPropiosSiglas.txt
+bienamado               -> Añado 'bienamado/GS' en noRAE/Adjetivos.txt (http://www.fundeu.es/consulta/bienamado-bienquisto-1282/)
+Bigotsky                -> ¿Error ortográfico por 'Vigotsky'?
+Bilbao                  -> Añado 'Bilbao' en noRAE/NombresPropiosSiglas.txt
 bilingüe
 bilingües
 bilingüismo

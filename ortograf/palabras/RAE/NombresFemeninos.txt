@@ -1200,6 +1200,7 @@ barricada/S
 barrica/S
 barriga/S
 barriguera/S
+barroquización/S
 basada/S
 basanita/S
 basa/S
@@ -1237,6 +1238,7 @@ bayuca/S
 baza/S
 bazofia/S
 be
+beatería/S
 beatificación/S
 beatilla/S
 beatitud/S
@@ -1272,6 +1274,7 @@ beodez/S
 berberidácea/S
 berenjena/S
 bergamota/S
+berlanga/S
 berlina/S
 berma/S
 bermudina/S

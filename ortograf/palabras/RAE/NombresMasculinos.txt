@@ -1889,6 +1889,7 @@ beduino/S
 beduro/S
 befo/S
 be/H
+behaviorismo/S
 béisbol/S
 bejín/S
 bejuco/S

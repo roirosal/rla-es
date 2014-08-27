@@ -29,7 +29,10 @@ autodenominado/GS
 autodeterminado/GS
 autolubricante/S
 autosustentable/S
+baladístico/GS
+behaviorista/S
 bidireccional/S
+bienamado/GS
 colaborativo/GS
 combinacional/S			# Contribuida por César Romé
 completísimo/GS
