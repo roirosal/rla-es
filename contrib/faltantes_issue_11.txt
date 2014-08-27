@@ -258,46 +258,46 @@ Betis                   -> ¿Equipo de fútbol español? Añado 'Betis' en noRAE
 bienamado               -> Añado 'bienamado/GS' en noRAE/Adjetivos.txt (http://www.fundeu.es/consulta/bienamado-bienquisto-1282/)
 Bigotsky                -> ¿Error ortográfico por 'Vigotsky'?
 Bilbao                  -> Añado 'Bilbao' en noRAE/NombresPropiosSiglas.txt
-bilingüe
+bilingüe                -> Añado 'bilingüe' en Adjetivos.txt y en NombresComunes.txt
 bilingües
-bilingüismo
+bilingüismo             -> Añado 'bilingüismo/S' en NombresMasculinos.txt
 Bilingüismo
-bimembraciones
-biografismo
-biparentales
-bisílabas
+bimembraciones          -> Pocas ocurrencias
+biografismo             -> Pocas ocurrencias
+biparentales            -> Añado 'biparental/S' en noRAE/Adjetivos.txt
+bisílabas               -> Añado 'bisílabo/GS' en Adjetivos.txt y 'bisílabo/S' en NombresMasculinos.txt
 bisílabos
-biunivocidad
-biunívoco
-Blas
-Bloomfield
-Bocaccio
+biunivocidad            -> Pocas ocurrencias
+biunívoco               -> Añado 'biunívoco/GS' en noRAE/Adjetivos.txt
+Blas                    -> Añado 'Blas' en Locuciones.txt
+Bloomfield              -> Añado 'Bloomfield' en noRAE/NombresPropiosSiglas.txt
+Bocaccio                -> Añado 'Boccaccio' en noRAE/NombresPropiosSiglas.txt
 Boccaccio
-Borges
-Boscán
-bostezos
-braille
-Brecht
-Breton
-Brevemente
-brevísimo
-Brunetiere
-bucolismo
-buldero
-Buñuel
-Burgos
-burlescamente
-Buscón
+Borges                  -> Añado 'Borges' en noRAE/NombresPropiosSiglas.txt
+Boscán                  -> Pocas ocurrencias
+bostezos                -> Añado 'bostezo/S' en NombresMasculinos.txt
+braille                 -> Añado 'braille' en NombresMasculinos.txt
+Brecht                  -> Añado 'Brecht' en noRAE/NombresPropiosSiglas.txt
+Breton                  -> Añado 'Breton' en noRAE/NombresPropiosSiglas.txt
+Brevemente              -> Ya fue añadida
+brevísimo               -> Añado 'brevísimo/GS' en noRAE/Adjetivos.txt
+Brunetiere              -> Nombre propio francés con pocas ocurrencias, además habría error ortográfico ya que la escritura correcta es 'Brunetière'
+bucolismo               -> Añado 'bucolismo/S' en NombresMasculinos.txt
+buldero                 -> Desusado: 'bulero'. Existe en NombresMasculinos.old
+Buñuel                  -> Añado 'Buñuel' en noRAE/NombresPropiosSiglas.txt
+Burgos                  -> Añado 'Burgos' en noRAE/NombresPropiosSiglas.txt
+burlescamente           -> Pocas ocurrencias
+Buscón                  -> Añado 'buscón/GS' en Adjetivos.txt y en NombresMasculinosFemeninos.txt, además 'buscona/S' en NombresFemeninos.txt
 buscona
-cacereña
+cacereña                -> Añado 'cacereño/GS' en Adjetivos.txt y en NombresMasculinosFemeninos.txt
 cacereñas
 cacereños
-Cádiz
-calderoniano
-caligrama
+Cádiz                   -> Añado 'Cádiz' en noRAE/NombresPropiosSiglas.txt
+calderoniano            -> Añado 'calderoniano/GS' en Adjetivos.txt
+caligrama               -> Añado 'caligrama/S' en NombresMasculinos.txt
 caligramas
-Calila
-Calisto
+Calila                  -> Pocas ocurrencias.
+Calisto                 -> Añado 'Calisto' en noRAE/NombresPropiosSiglas.txt
 Camus
 cancioncillas
 cancioneril

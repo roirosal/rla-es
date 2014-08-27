@@ -1973,6 +1973,7 @@ bigote/S
 bigotudo/S
 bikini/S
 bilao/S
+bilingüismo/S
 billar/S
 billete/SC
 billón/S
@@ -1998,6 +1999,7 @@ bis
 biselador/S
 bisel/S
 bisiesto/S
+bisílabo/S
 bismuto/S
 bisonte/S
 bistec/S
@@ -2142,6 +2144,7 @@ bosquejo/S
 bosque/S
 bosquete/S
 bosquimán/S
+bostezo/S
 botador/iS
 botafuego/S
 botafumeiro/S
@@ -2178,6 +2181,7 @@ bragazas
 braguero/S
 braguillas
 brahmanismo/S
+braille
 bramante/S
 bramido/S
 brancal/S
@@ -2255,6 +2259,7 @@ buceo/S
 bucero/S
 buche/S
 bucle/S
+bucolismo/S
 buco/S
 buda/OS
 budín/S
@@ -2479,6 +2484,7 @@ calientaplatos
 califa/S
 califato/S
 calificativo/S
+caligrama/S
 calimaco/S
 calimote/S
 cáliz/S

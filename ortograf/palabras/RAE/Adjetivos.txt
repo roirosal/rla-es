@@ -1673,6 +1673,7 @@ bigotudo/GS
 bilbilitano/GS
 biliario/GS
 biliar/S
+bilingüe/S
 bimano/GS
 bimembre/S
 bimestral/S
@@ -1693,6 +1694,7 @@ birreme/S
 bisalta/S
 bisayo/SG
 bisector/S
+bisílabo/GS
 bisojo/SG
 bisoño/GS
 bisurco/S
@@ -1894,6 +1896,7 @@ burriciego/GS
 burro/SG
 bursátil/S
 buscador/GpS
+buscón/GS
 cabalístico/GS
 caballar/S
 caballeresco/GS
@@ -1919,6 +1922,7 @@ cabrito/GS
 cabrón/GS
 cabruno/GS
 cacareador/GS
+cacereño/GS
 cachas/S
 cachazudo/GS
 cachetudo/GS
@@ -1957,6 +1961,7 @@ calculatorio/GS
 calculista/S
 calculoso/GS
 caldeo/GS
+calderoniano/GS
 caldoso/GS
 caledonio/SG
 calefactor/GS

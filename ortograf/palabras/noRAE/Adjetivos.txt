@@ -33,6 +33,9 @@ baladístico/GS
 behaviorista/S
 bidireccional/S
 bienamado/GS
+biparental/S
+biunívoco/GS
+brevísimo/GS
 colaborativo/GS
 combinacional/S			# Contribuida por César Romé
 completísimo/GS

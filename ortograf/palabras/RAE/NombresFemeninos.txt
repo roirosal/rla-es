@@ -1552,6 +1552,7 @@ burrada/S
 burra/S
 busca/pS
 buscarla/S
+buscona/S
 búsqueda/S
 butaca/S
 butifarra/S

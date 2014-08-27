@@ -293,6 +293,7 @@ buhonero/GS
 buitrero/GS
 burgués/GS
 burlón/GS
+buscón/GS
 butifarrero/GS
 cabecero/GS
 cabezalero/GS
@@ -303,6 +304,7 @@ cabrero/GS
 cabritero/GS
 cabrito/GS
 cabrón/GS
+cacereño/GS
 cacharrero/GS
 cachazudo/GS
 cacique/GS
