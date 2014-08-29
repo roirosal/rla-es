@@ -298,56 +298,56 @@ caligrama               -> Añado 'caligrama/S' en NombresMasculinos.txt
 caligramas
 Calila                  -> Pocas ocurrencias.
 Calisto                 -> Añado 'Calisto' en noRAE/NombresPropiosSiglas.txt
-Camus
-cancioncillas
-cancioneril
-canónigas
-cantarcillo
+Camus                   -> Añado 'Camus' en noRAE/NombresPropiosSiglas.txt
+cancioncillas           -> Problema: el sufijo con bandera 'N' aplica a femeninos y masculinos sin criterio. Publico el problema #14
+cancioneril             -> Añado 'cancioneril/S' en Adjetivos.txt
+canónigas               -> Añado 'canóniga/S' en NombresFemeninos.txt
+cantarcillo             -> Pocas ocurrencias
 cantarcillos
-cantautor
-cántica
-captatio
+cantautor               -> Añado 'cantautor/GS' en NombresMasculinosFemeninos.txt
+cántica                 -> Término desusado por 'cantar' (|| composición poética). Lo añado en NombresFemeninos.old
+captatio                -> ¿Latín?
 Captatio
-Carabagio
-carolinguio
-Carón
-Caronte
-Carpentier
-Carreter
-Carrión
-Casandra
-Cassany
-castellanización
-catáfora
+Carabagio               -> Pocas ocurrencias, ¿será algún tipo de castellanización por 'Caravaggio' (pintor)?
+carolinguio             -> ¿Error de tipeo por 'carolingio'?
+Carón                   -> Añado 'Carón' en noRAE/NombresPropiosSiglas.txt
+Caronte                 -> Añado 'Caronte' en noRAE/NombresPropiosSiglas.txt
+Carpentier              -> Añado 'Carpentier' en noRAE/NombresPropiosSiglas.txt
+Carreter                -> Añado 'Carreter' en noRAE/NombresPropiosSiglas.txt
+Carrión                 -> Añado 'Carrión' en noRAE/NombresPropiosSiglas.txt
+Casandra                -> Añado 'Casandra' en noRAE/NombresPropiosSiglas.txt
+Cassany                 -> Pocas ocurrencias.
+castellanización        -> Añado la bandera 'A' en el lema 'castellanizar' en VerbosTransitivosPronominales.txt
+catáfora                -> Añado 'catáfora/S' en NombresFemeninos.txt
 catáforas
-catalogación
-Cataluña
-categorización
-categorizadores
+catalogación            -> Añado la bandera 'A' en el lema 'catalogar' en VerbosTransitivos.txt
+Cataluña                -> Añado 'Cataluña' en noRAE/NombresPropiosSiglas.txt
+categorización          -> Añado el lema 'categorizar/REDA' en VerbosTransitivos.txt
+categorizadores         -> Pocas ocurrencias
 categorizar
-Catonis
-Cáucaso
-causalista
-Cecilia
-Celi
-Cernuda
-Cervantes
-cf
+Catonis                 -> Pocas ocurrencias
+Cáucaso                 -> Añado 'Cáucaso' en noRAE/NombresPropiosSiglas.txt
+causalista              -> Pocas ocurrencias
+Cecilia                 -> Añado 'Cecilia' en noRAE/NombresPropiosSiglas.txt
+Celi                    -> Pocas ocurrencias
+Cernuda                 -> Añado 'Cernuda' en noRAE/NombresPropiosSiglas.txt
+Cervantes               -> Añado 'Cervantes' en noRAE/NombresPropiosSiglas.txt
+cf                      -> Añado 'cf' en noRAE/Abreviaturas.txt
 Cf
-Cfr
-Chanson
-chatarrerías
-chats
-chinato
-chinita
-Chomsky
-ciceante
-cientifismo
-cinésicos
-circunfijos
-cívicamente
-clarísima
-clasema
+Cfr                     -> Añado 'cfr' en noRAE/Abreviaturas.txt
+Chanson                 -> Término francés.
+chatarrerías            -> Añado 'chatarrería/S' en NombresFemeninos.txt
+chats                   -> Añado 'chat/S' en NombresMasculinos.txt
+chinato                 -> Pocas ocurrencias
+chinita                 -> Añado 'chinita/S' en NombresFemeninos para las localizaciones 'es_CU' y 'es_HN', además en noRAE/NombresFemeninos.txt
+Chomsky                 -> Añado 'Chomsky' en noRAE/NombresPropiosSiglas.txt
+ciceante                -> ¿Error ortográfico por 'ceceante'?
+cientifismo             -> Añado 'cientifismo/S' en NombresMasculinos.txt
+cinésicos               -> ¿Error ortográfico por 'cinésicas' o 'cinéticos'?
+circunfijos             -> Pocas ocurrencias
+cívicamente             -> Añado 'cívicamente' en noRAE/Adverbios.txt
+clarísima               -> Añado 'clarísimo/GS' en noRAE/AumentativosDiminutivos.txt
+clasema                 -> Añado 'clasema/S' en NombresMasculinos.txt
 Clasema
 clasemas
 clasificativos

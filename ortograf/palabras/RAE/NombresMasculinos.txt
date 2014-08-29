@@ -3099,6 +3099,7 @@ chascarro/SN
 chasco/S
 chasis
 chasquido/S
+chat/S
 chauvinismo/S
 chavetero/S
 chavo/S
@@ -3217,6 +3218,7 @@ cielo/rS
 ciempiés
 cieno/S
 cientificismo/S
+cientifismo/S
 ciento/S
 cierne/S
 cierre/S
@@ -3306,6 +3308,7 @@ clarín/HS
 clarión/S
 claror/S
 claroscuro/S
+clasema/S
 clasicismo/S
 clásico/SG
 clasificador/S

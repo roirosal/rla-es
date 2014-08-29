@@ -347,6 +347,7 @@ canillero/GS
 canino/GS
 canoero/GS
 cantador/GS
+cantautor/GS
 cantinero/GS
 cantonero/GS
 cantor/GS
@@ -369,6 +370,7 @@ carillo/GS
 cario/GS
 carismático/GS
 carnicero/GS
+carolingio/GS
 carolino/GS
 carpintero/GS
 carraco/GS

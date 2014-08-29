@@ -1768,6 +1768,7 @@ caninez/S
 canoa/S
 canonesa/S
 canónica/S
+canóniga/S
 canonización/S
 canonjía/S
 cansera/S
@@ -1993,6 +1994,7 @@ casucha/S
 casulla/S
 catacumbas
 catadura/S
+catáfora/S
 catalanidad/S
 catalepsia/S
 catalina/S
@@ -2214,6 +2216,7 @@ charlatanería/S
 charnela/S
 charretera/S
 chatarra/S
+chatarrería/S
 chaveta/S
 chequera/S
 che/S
@@ -2332,6 +2335,7 @@ cinema/S
 cinemática/S
 cinematografía/S
 cineraria/S
+cinésica/S
 cinética/S
 cinoglosa/S
 cintagorda/S

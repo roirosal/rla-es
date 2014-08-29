@@ -502,7 +502,7 @@ cariar/IRD
 carmenar/RED
 carpir/RED
 carretear/RED
-castellanizar/RED
+castellanizar/REDA
 castigar/REDÂÆÍñò
 castrar/REDÀñ
 causar/REDÀÂÅÆñò

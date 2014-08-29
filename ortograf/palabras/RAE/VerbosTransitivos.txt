@@ -684,10 +684,11 @@ casar/REDÀÁÂÅ
 cascamajar/RED
 caseificar/RED
 catalizar/REDÌ
-catalogar/hREDÀÁÄÆ
+catalogar/hREDAÀÁÄÆ
 catapultar/REDÀ
 catar/REDÀ
 catear/REDÄ
+categorizar/REDA
 catequizar/REDÀ
 caucionar/RED
 causticar/RED

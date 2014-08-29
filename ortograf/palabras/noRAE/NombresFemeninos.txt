@@ -22,6 +22,7 @@ autoconciencia/S
 autoconfianza/S
 autodisciplina/S
 autoprotección/S		# Contribuida por César Romé
+chinita/S
 criolita/S
 cromita/S
 cumplimentación/S

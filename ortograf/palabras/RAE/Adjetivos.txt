@@ -2052,6 +2052,7 @@ cancerígeno/GS
 canceroso/SG
 cáncer/S
 cancilleresco/GS
+cancioneril/S
 candeal/S
 candente/S
 cándido/GS
